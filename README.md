@@ -23,7 +23,7 @@ Para utilizar o algoritmo, siga os passos abaixo:
 ### Exemplo de Execução
 
 ```bash
-Digite o preço do Alcool: 4.50
+Digite o preço do Etanol: 4.50
 Digite o preço da Gasolina: 6.50
 Compensa abastecer com gasolina.
 ```

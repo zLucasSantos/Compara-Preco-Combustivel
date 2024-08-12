@@ -2,7 +2,7 @@ import 'dart:io';
 
 main() {
 
-  stdout.write("Digite o preço do Alcool: ");
+  stdout.write("Digite o preço do Etanol: ");
   var precoEtanol = stdin.readLineSync()!;
   double etanol = double.parse(precoEtanol);
 
